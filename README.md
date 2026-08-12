@@ -189,3 +189,48 @@ B.Sc. Candidate in Biomedical Engineering — Bioelectric Engineering
 Amirkabir University of Technology (Tehran Polytechnic)
 
 Research interests: Rehabilitation Engineering, Computer Vision, Eye Tracking, Biomedical Signal Processing, and Machine Learning in Healthcare.
+
+
+## Interface Gallery
+
+The following screenshots show representative interfaces and stages of the Bloom Motion rehabilitation system.
+
+### Main Menu
+
+![Bloom Motion Main Menu](docs/images/main-menu.jpg)
+
+### Interface Screenshot 1
+
+![Bloom Motion Interface](docs/images/Screenshot%20%2833%29.png)
+
+### Interface Screenshot 2
+
+![Bloom Motion Interface](docs/images/Screenshot%20%2834%29.png)
+
+### Interface Screenshot 3
+
+![Bloom Motion Interface](docs/images/Screenshot%20%2845%29.png)
+
+### Interface Screenshot 4
+
+![Bloom Motion Interface](docs/images/Screenshot%20%2849%29.png)
+
+### Interface Screenshot 5
+
+![Bloom Motion Interface](docs/images/Screenshot%20%2854%29.png)
+
+### Interface Screenshot 6
+
+![Bloom Motion Interface](docs/images/Screenshot%20%2855%29.png)
+
+### Stage Selection
+
+![Bloom Motion Stage Selection](docs/images/Screenshot%202026-07-09%20183448.jpg)
+
+### Training Stage
+
+![Bloom Motion Training Stage](docs/images/Screenshot%202026-07-09%20184933.jpg)
+
+### Summer Pots Stage
+
+![Bloom Motion Summer Pots Stage](docs/images/Screenshot%202026-07-09%20184956.jpg)
